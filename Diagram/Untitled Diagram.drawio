@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-13T09:33:36.747Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="c12KwITWn_amSsbRqz0X" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-13T09:40:02.698Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="MZQawMajAK_Y8icecZZL" version="24.4.0" type="github">
   <diagram name="Page-1" id="10a91c8b-09ff-31b1-d368-03940ed4cc9e">
-    <mxGraphModel dx="6385" dy="6180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="7780" dy="6823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -728,12 +728,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_nb5hvSd70LeaU7eDLjC-166" value="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Roboto, sans-serif&quot; color=&quot;#212529&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;Ứng viên phòng ban đã chọn&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="9330" y="1490" width="200" height="70" as="geometry" />
+          <mxGeometry x="8170" y="1490" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_nb5hvSd70LeaU7eDLjC-167" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.563;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="_nb5hvSd70LeaU7eDLjC-166" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="9440" y="1400" as="sourcePoint" />
-            <mxPoint x="9350" y="1410" as="targetPoint" />
+            <mxPoint x="8280" y="1400" as="sourcePoint" />
+            <mxPoint x="8190" y="1410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_nb5hvSd70LeaU7eDLjC-168" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Roboto, sans-serif&quot; color=&quot;#212529&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;Ứng viên chờ đặt lịch&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
